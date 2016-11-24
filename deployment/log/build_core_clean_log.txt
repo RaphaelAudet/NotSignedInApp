@@ -1,0 +1,11 @@
+Buildfile: e:\Users\uuu\Documents\Mendix\NotSignedInApp\deployment\build_core.xml
+
+clean:
+   [delete] Deleting directory e:\Users\uuu\Documents\Mendix\NotSignedInApp\deployment\model
+   [delete] Deleting directory e:\Users\uuu\Documents\Mendix\NotSignedInApp\deployment\run
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
+

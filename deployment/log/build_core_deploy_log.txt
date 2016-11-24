@@ -1,0 +1,10 @@
+Buildfile: e:\Users\uuu\Documents\Mendix\NotSignedInApp\deployment\build_core.xml
+
+deploy:
+    [unzip] Expanding: E:\Program Files\Mendix\6.10.0\modeler\deployment.mxz into e:\Users\uuu\Documents\Mendix\NotSignedInApp\deployment
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
+
